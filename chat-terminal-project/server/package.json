@@ -1,9 +1,0 @@
-{
-  "name": "chat-terminal-server",
-  "version": "1.0.0",
-  "description": "Terminal server with File Bridge",
-  "main": "terminal-server.js",
-  "dependencies": {
-    "ws": "^8.16.0"
-  }
-}
