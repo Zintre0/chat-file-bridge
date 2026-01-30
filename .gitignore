@@ -1,4 +1,19 @@
+# Dependencies
 node_modules/
+
+# Logs
 *.log
+npm-debug.log*
+
+# OS System Files
 .DS_Store
+Thumbs.db
+
+# Backups
+*.bak
+*.BAK
+*.BAK2
+.backups/
+
+# Environment
 .env
