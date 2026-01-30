@@ -23,7 +23,7 @@ A local WebSocket server and Chrome extension pair that enables a web-based chat
     ```bash
     node terminal-server.js
     ```
-    The server will run on `ws://localhost:9091`.
+    The server will run on `ws://localhost:9092`.
 
 ### 2. Install the Extension
 
